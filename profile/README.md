@@ -11,5 +11,5 @@
     <li>📱 <strong>Mobil Cihazlarla Uyum:</strong> Her yerden erişim kolaylığı.</li>
     <li>🔐 <strong>Güvenli Finansal İşlemler:</strong> Hızlı ve korumalı sistem altyapısı.</li>
 </ul>
-<p>Dedebet ile kazanmaya başlamak artık çok kolay! Hemen siteye göz at, sen de avantajlardan yararlan. 🎁</p>
+<p>Dedebet ile kazanmaya başlamak artık çok kolay! Hemen siteye göz at, sen de avantajlardan yararlan.. 🎁</p>
 <a href="https://cutt.ly/Dedebet2025-giris" class="join-button">🔗 Dedebet Giriş</a>
